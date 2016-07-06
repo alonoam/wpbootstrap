@@ -1,0 +1,10 @@
+{
+  "name": "wpbootstrap",
+  "version": "2.0.0",
+  "description": "wpbootstrap new version of my wpbootstrap 1.0.0 theme",
+  "repository": {
+    "type": "git",
+    "url": "?.git"
+  },
+  "author": "Noam Alon"
+}
