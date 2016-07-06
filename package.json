@@ -4,11 +4,14 @@
   "description": "wpbootstrap new version of my wpbootstrap 1.0.0 theme",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/alonoam/wpbootstrap.git"
   },
   "author": "Noam Alon",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-util": "^3.0.7"
+    "gulp-browserify": "^0.5.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-util": "^3.0.7",
+    "jquery": "^3.0.0"
   }
 }
